@@ -1,0 +1,13 @@
+Yitzchak Strumberger - 206071375
+Itai Daivd - 316088327
+
+This project contains:
+README - this file
+main.py - runs the different calculations needed for the exercise
+mle.py - Mle class containing the functions needed for the for calculating the
+         error rate using the Maximum Likelihood Estimation
+bigram_hmm - BigramHMM class that is in charge of implementing the bigram HMM
+             tagger and includes implementations of viterbi algorithm.
+ex2_67658.pdf - A single file which contains all answers to Theoretical
+                Questions as well as the Results we obtained in the practical
+                part and the decisions we made.
